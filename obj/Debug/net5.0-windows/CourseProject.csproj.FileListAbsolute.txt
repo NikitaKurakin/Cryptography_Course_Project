@@ -1,0 +1,52 @@
+C:\Users\1 MORE BIG FLOPPA\source\repos\Cryptography\CourseProject\CourseProject\obj\Debug\net5.0-windows\CourseProject.csprojAssemblyReference.cache
+C:\Users\1 MORE BIG FLOPPA\source\repos\Cryptography\CourseProject\CourseProject\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\1 MORE BIG FLOPPA\source\repos\Cryptography\CourseProject\CourseProject\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\1 MORE BIG FLOPPA\source\repos\Cryptography\CourseProject\CourseProject\obj\Debug\net5.0-windows\CourseProject_MarkupCompile.cache
+C:\Users\1 MORE BIG FLOPPA\source\repos\Cryptography\CourseProject\CourseProject\obj\Debug\net5.0-windows\CourseProject_MarkupCompile.lref
+C:\Users\1 MORE BIG FLOPPA\source\repos\Cryptography\CourseProject\CourseProject\bin\Debug\net5.0-windows\CourseProject.exe
+C:\Users\1 MORE BIG FLOPPA\source\repos\Cryptography\CourseProject\CourseProject\bin\Debug\net5.0-windows\CourseProject.deps.json
+C:\Users\1 MORE BIG FLOPPA\source\repos\Cryptography\CourseProject\CourseProject\bin\Debug\net5.0-windows\CourseProject.runtimeconfig.json
+C:\Users\1 MORE BIG FLOPPA\source\repos\Cryptography\CourseProject\CourseProject\bin\Debug\net5.0-windows\CourseProject.runtimeconfig.dev.json
+C:\Users\1 MORE BIG FLOPPA\source\repos\Cryptography\CourseProject\CourseProject\bin\Debug\net5.0-windows\CourseProject.dll
+C:\Users\1 MORE BIG FLOPPA\source\repos\Cryptography\CourseProject\CourseProject\bin\Debug\net5.0-windows\ref\CourseProject.dll
+C:\Users\1 MORE BIG FLOPPA\source\repos\Cryptography\CourseProject\CourseProject\bin\Debug\net5.0-windows\CourseProject.pdb
+C:\Users\1 MORE BIG FLOPPA\source\repos\Cryptography\CourseProject\CourseProject\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+C:\Users\1 MORE BIG FLOPPA\source\repos\Cryptography\CourseProject\CourseProject\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\1 MORE BIG FLOPPA\source\repos\Cryptography\CourseProject\CourseProject\obj\Debug\net5.0-windows\App.baml
+C:\Users\1 MORE BIG FLOPPA\source\repos\Cryptography\CourseProject\CourseProject\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\1 MORE BIG FLOPPA\source\repos\Cryptography\CourseProject\CourseProject\obj\Debug\net5.0-windows\CourseProject.g.resources
+C:\Users\1 MORE BIG FLOPPA\source\repos\Cryptography\CourseProject\CourseProject\obj\Debug\net5.0-windows\CourseProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1 MORE BIG FLOPPA\source\repos\Cryptography\CourseProject\CourseProject\obj\Debug\net5.0-windows\CourseProject.AssemblyInfoInputs.cache
+C:\Users\1 MORE BIG FLOPPA\source\repos\Cryptography\CourseProject\CourseProject\obj\Debug\net5.0-windows\CourseProject.AssemblyInfo.cs
+C:\Users\1 MORE BIG FLOPPA\source\repos\Cryptography\CourseProject\CourseProject\obj\Debug\net5.0-windows\CourseProject.csproj.CoreCompileInputs.cache
+C:\Users\1 MORE BIG FLOPPA\source\repos\Cryptography\CourseProject\CourseProject\obj\Debug\net5.0-windows\CourseProject.csproj.CopyComplete
+C:\Users\1 MORE BIG FLOPPA\source\repos\Cryptography\CourseProject\CourseProject\obj\Debug\net5.0-windows\CourseProject.dll
+C:\Users\1 MORE BIG FLOPPA\source\repos\Cryptography\CourseProject\CourseProject\obj\Debug\net5.0-windows\ref\CourseProject.dll
+C:\Users\1 MORE BIG FLOPPA\source\repos\Cryptography\CourseProject\CourseProject\obj\Debug\net5.0-windows\CourseProject.pdb
+C:\Users\1 MORE BIG FLOPPA\source\repos\Cryptography\CourseProject\CourseProject\obj\Debug\net5.0-windows\CourseProject.genruntimeconfig.cache
+D:\CryptLabs\CourseProject\bin\Debug\net5.0-windows\CourseProject.exe
+D:\CryptLabs\CourseProject\bin\Debug\net5.0-windows\CourseProject.deps.json
+D:\CryptLabs\CourseProject\bin\Debug\net5.0-windows\CourseProject.runtimeconfig.json
+D:\CryptLabs\CourseProject\bin\Debug\net5.0-windows\CourseProject.runtimeconfig.dev.json
+D:\CryptLabs\CourseProject\bin\Debug\net5.0-windows\CourseProject.dll
+D:\CryptLabs\CourseProject\bin\Debug\net5.0-windows\ref\CourseProject.dll
+D:\CryptLabs\CourseProject\bin\Debug\net5.0-windows\CourseProject.pdb
+D:\CryptLabs\CourseProject\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+D:\CryptLabs\CourseProject\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+D:\CryptLabs\CourseProject\obj\Debug\net5.0-windows\CourseProject.csprojAssemblyReference.cache
+D:\CryptLabs\CourseProject\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\CryptLabs\CourseProject\obj\Debug\net5.0-windows\App.g.cs
+D:\CryptLabs\CourseProject\obj\Debug\net5.0-windows\CourseProject_MarkupCompile.cache
+D:\CryptLabs\CourseProject\obj\Debug\net5.0-windows\CourseProject_MarkupCompile.lref
+D:\CryptLabs\CourseProject\obj\Debug\net5.0-windows\App.baml
+D:\CryptLabs\CourseProject\obj\Debug\net5.0-windows\MainWindow.baml
+D:\CryptLabs\CourseProject\obj\Debug\net5.0-windows\CourseProject.g.resources
+D:\CryptLabs\CourseProject\obj\Debug\net5.0-windows\CourseProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\CryptLabs\CourseProject\obj\Debug\net5.0-windows\CourseProject.AssemblyInfoInputs.cache
+D:\CryptLabs\CourseProject\obj\Debug\net5.0-windows\CourseProject.AssemblyInfo.cs
+D:\CryptLabs\CourseProject\obj\Debug\net5.0-windows\CourseProject.csproj.CoreCompileInputs.cache
+D:\CryptLabs\CourseProject\obj\Debug\net5.0-windows\CourseProject.csproj.CopyComplete
+D:\CryptLabs\CourseProject\obj\Debug\net5.0-windows\CourseProject.dll
+D:\CryptLabs\CourseProject\obj\Debug\net5.0-windows\ref\CourseProject.dll
+D:\CryptLabs\CourseProject\obj\Debug\net5.0-windows\CourseProject.pdb
+D:\CryptLabs\CourseProject\obj\Debug\net5.0-windows\CourseProject.genruntimeconfig.cache

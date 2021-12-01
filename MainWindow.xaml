@@ -1,0 +1,91 @@
+﻿<Window x:Class="CourseProject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CourseProject" xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="CourseProject ElGamal and E2" Height="450" Width="550" ResizeMode="NoResize">
+    <Grid HorizontalAlignment="Left" VerticalAlignment="Top" Width="722">
+        <Menu
+  IsMainMenu="True" Background="{DynamicResource MaterialDesignBackground}" Margin="0,0,183,0">
+            <MenuItem Header="Сервер" Background="{DynamicResource MaterialDesignBackground}" BorderBrush="Black" FontFamily="Bahnschrift Condensed" FontSize="20">
+
+                <MenuItem      Header="Загрузить на сервер...">
+                    <MenuItem
+      Header="Файл" Command="{Binding UploadFileCommand}">
+                    </MenuItem>
+                    <MenuItem
+      Header="Публичный ключ" Command="{Binding UploadPublicKeyFile}">
+                    </MenuItem>
+                    <MenuItem
+      Header="Вектор инициализации" Command="{Binding UploadIVFileCommand}">
+                    </MenuItem>
+                    <MenuItem
+      Header="Зашифрованный ключ E2" Command="{Binding UploadE2KeyFile}">
+                    </MenuItem>
+                </MenuItem>
+                <MenuItem      Header="Получить с сервера...">
+                    <MenuItem
+      Header="Файл" Command="{Binding DownloadFileCommand}">
+                    </MenuItem>
+                    <MenuItem
+      Header="Вектор инициализации" Command="{Binding DownloadIVFileCommand}">
+                    </MenuItem>
+                    <MenuItem
+      Header="Публичный ключ" Command="{Binding DownloadPublicKeyFileCommand}">
+                    </MenuItem>
+                    <MenuItem
+      Header="Зашифрованный ключ E2" Command="{Binding DownloadE2KeyFileCommand}">
+                    </MenuItem>
+
+                </MenuItem>
+            </MenuItem>
+            <MenuItem Header="Генерация" Background="{DynamicResource MaterialDesignCardBackground}" OpacityMask="#FF6C1F1F" FontFamily="Bahnschrift Condensed" FontSize="20">
+                <MenuItem Header="Генерировать ключ ElGamal"
+                          Command="{Binding GenerateElGamalKeyCommand}">
+                </MenuItem>
+                <MenuItem Header="Генерировать ключ E2" 
+                          Command="{Binding GenerateE2KeyCommand}">
+                </MenuItem>
+                <MenuItem Header="Генерировать вектор инициализации" 
+                          Command="{Binding GenerateIVCommand}">
+                </MenuItem>
+            </MenuItem>
+            <MenuItem Header="Шифрование" HorizontalContentAlignment="Left" Background="{DynamicResource MaterialDesignBackground}" BorderBrush="Black" Foreground="#DD000000" FontFamily="Bahnschrift Condensed" FontSize="20">
+                <MenuItem Header="Шифровать ключ E2"
+                          Command="{Binding EncryptSymmKeyCommand}">
+                </MenuItem>
+                <MenuItem Header="Дешифровать ключ E2"
+                          Command="{Binding DecryptSymmKeyCommand}">
+                </MenuItem>
+                <MenuItem Header="Шифровать файл"
+                          Command="{Binding EncryptFileCommand}">
+                </MenuItem>
+                <MenuItem Header="Дешифровать файл"
+                          Command="{Binding DecryptFileCommand}">
+                </MenuItem>
+
+                <MenuItem Header="Режим шифрования"
+                          Command="{Binding EncryptSymmKeyCommand}">
+                    <MenuItem Header="ECB" IsCheckable="True" IsChecked="{Binding ECB}"/>
+                    <MenuItem Header="CBC" IsCheckable="True" IsChecked="{Binding CBC}"/>
+                    <MenuItem Header="CFB" IsCheckable="True" IsChecked="{Binding CFB}"/>
+                    <MenuItem Header="OFB" IsCheckable="True" IsChecked="{Binding OFB}"/>
+
+                </MenuItem>
+            </MenuItem>
+        </Menu>
+        <TextBox
+            x:Name="textBox"
+    Text="{Binding TextBoxText}"
+    Style="{StaticResource MaterialDesignOutlinedTextBox}"
+    VerticalAlignment="Center"
+    Height="337"
+    AcceptsReturn="True"
+    TextWrapping="Wrap"
+    VerticalScrollBarVisibility="Auto"
+    materialDesign:HintAssist.Hint="" Margin="14,65,183,0"
+    IsReadOnly="True" TextChanged="TextBox_TextChanged" FontSize="15" Background="{DynamicResource MaterialDesignLightForeground}" CaretBrush="Black" SelectionBrush="Black" BorderBrush="#BC000000" Foreground="#FF63CA3C" Cursor="IBeam" HorizontalAlignment="Left" Width="500"/>
+    </Grid>
+</Window>
